@@ -1,0 +1,1 @@
+para gurdadar un archivo debes usar git add mas nombre del archivo
