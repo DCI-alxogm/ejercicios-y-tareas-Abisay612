@@ -12,5 +12,9 @@ printf("introduce tu edad \n");
 scanf("%i", &edad);
 printf("¿que temperatura marco el termometro? \n");
 scanf("%", &temperatura);
+printf("tu edad es: %i\n", edad);
+printf("tu ultimo registro de temperatura fue: %f\n", temperatura);
 
 }
+
+ /*termine programa_3*/
